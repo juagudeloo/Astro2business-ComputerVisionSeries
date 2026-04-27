@@ -1,3 +1,5 @@
+outputs/
+YOLO/
 media/
 data/
 runs/
