@@ -1,3 +1,7 @@
+kernel-metadata.json
+kaggle*
+models/
+datasets/
 outputs/
 YOLO/
 media/
